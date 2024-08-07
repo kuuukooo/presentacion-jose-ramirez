@@ -10,7 +10,7 @@ Actualmente estoy aprendiendo React en la plataforma [Scrimba](https://v2.scrimb
 El proyecto es una práctica de las bases de React, haciendo componentes y utilizando prácticas del mundo real para aplicar lo aprendido.
 El diseño proveído por el curso es el siguiente: [Diseño en Figma](https://www.figma.com/design/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-129&t=6JPiP8RI5LL0yjzh-0). 
 
-¡Gracias por el proyecto!
+¡Gracias por visitar el proyecto!
 
 ---
 
